@@ -8,10 +8,20 @@ Software Developer
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [cp985074@gmail.com](mailto:cp985074@gmail.com)
-* 🧠  I'm learning Full Stack JavaScript Development
+* 🧠  I'm learning Full Stack Development
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,django,flask,nodejs,express" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,figma,vscode" />
   </a>
 </p>
